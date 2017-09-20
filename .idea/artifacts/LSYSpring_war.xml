@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LSYSpring:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="LSY-Spring.war">
+      <element id="artifact" artifact-name="LSYSpring:war exploded" />
+    </root>
+  </artifact>
+</component>
